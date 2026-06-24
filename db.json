@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "test"
+    },
+    {
+      "id": "1781610254851",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "1781611647708",
+      "username": "nevin",
+      "password": "123"
+    }
+  ],
+  "userTeams": [
+    {
+      "id": "1",
+      "userId": "1",
+      "matchId": 537327,
+      "simulatedPoints": 50
+    },
+    {
+      "id": "1781611119142",
+      "userId": "1781610254851",
+      "matchId": 537391,
+      "teamName": "admin's XI",
+      "players": [
+        {
+          "id": 8316,
+          "name": "Brice Samba",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": 3373,
+          "name": "Ousmane Dembélé",
+          "position": "Attacker"
+        },
+        {
+          "id": 102395,
+          "name": "Manu Koné",
+          "position": "Midfielder"
+        },
+        {
+          "id": 3367,
+          "name": "N'Golo Kanté",
+          "position": "Midfielder"
+        },
+        {
+          "id": 71,
+          "name": "Theo Hernández",
+          "position": "Defender"
+        },
+        {
+          "id": 8499,
+          "name": "Jules Koundé",
+          "position": "Defender"
+        },
+        {
+          "id": 3638,
+          "name": "Ismaïla Sarr",
+          "position": "Midfielder"
+        },
+        {
+          "id": 3627,
+          "name": "Idrissa Gana Guèye",
+          "position": "Midfielder"
+        },
+        {
+          "id": 633,
+          "name": "Pape Gueye",
+          "position": "Midfielder"
+        },
+        {
+          "id": 8723,
+          "name": "Moussa Niakhaté",
+          "position": "Defender"
+        },
+        {
+          "id": 2086,
+          "name": "Kalidou Koulibaly",
+          "position": "Defender"
+        }
+      ],
+      "captain": 633,
+      "viceCaptain": 3627,
+      "formation": "4-3-3",
+      "simulatedPoints": 70,
+      "createdAt": "2026-06-16T11:58:39.143Z"
+    },
+    {
+      "id": "1781611748223",
+      "userId": "1781611647708",
+      "matchId": 537391,
+      "teamName": "nevin's XI",
+      "players": [
+        {
+          "id": 3626,
+          "name": "Sadio Mané",
+          "position": "Attacker"
+        },
+        {
+          "id": 805,
+          "name": "Edouard Mendy",
+          "position": "Goalkeeper"
+        },
+        {
+          "id": 3367,
+          "name": "N'Golo Kanté",
+          "position": "Midfielder"
+        },
+        {
+          "id": 8514,
+          "name": "Aurélien Tchouameni",
+          "position": "Midfielder"
+        },
+        {
+          "id": 3373,
+          "name": "Ousmane Dembélé",
+          "position": "Attacker"
+        },
+        {
+          "id": 8499,
+          "name": "Jules Koundé",
+          "position": "Defender"
+        },
+        {
+          "id": 3368,
+          "name": "Adrien Rabiot",
+          "position": "Midfielder"
+        },
+        {
+          "id": 3359,
+          "name": "Lucas Digne",
+          "position": "Defender"
+        },
+        {
+          "id": 194,
+          "name": "Ismail Jakobs",
+          "position": "Defender"
+        },
+        {
+          "id": 8723,
+          "name": "Moussa Niakhaté",
+          "position": "Defender"
+        },
+        {
+          "id": 9148,
+          "name": "Cherif Ndiaye",
+          "position": "Attacker"
+        }
+      ],
+      "captain": 3373,
+      "viceCaptain": 8514,
+      "formation": "4-3-3",
+      "simulatedPoints": 70,
+      "createdAt": "2026-06-16T12:09:08.223Z"
+    }
+  ]
+}
